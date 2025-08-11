@@ -1,16 +1,8 @@
-# 🧬 DNA Sequence Analyzer
+# Bioinformatics Demos
 
-Analyze DNA sequences from FASTA files: calculate GC content, nucleotide counts, and reverse complement.
+This repo contains two beginner-friendly bioinformatics Python projects:
+1. DNA Sequence Analyzer  
+2. Gene Expression Heatmap
 
-## 🚀 Features
-- GC content calculator
-- Nucleotide frequency count
-- Reverse complement generator
-
-## 🧰 Technologies
-- Python 3
-- (Optional) Biopython
-
-## 📦 Installation
-```bash
-pip install -r requirements.txt
+## Run in Google Colab
+[![Open DNA Analyzer and heatmap in Colab] https://colab.research.google.com/drive/16PNaFGnWcxwMwBjTlejg1ljf4TpvYizq?usp=sharing
